@@ -1,5 +1,7 @@
 # US residency and fellowship visa sponsorship data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23449121.svg)](https://doi.org/10.5281/zenodo.23449121)
+
 What the websites of every open US residency and fellowship program say about **J-1** and **H-1B** visas and about
 **international medical graduates (IMGs)**, counted nationally, by specialty and by state. Compiled by
 [ResidencySpot](https://residencyspot.com) and updated every day from the live tables at
@@ -81,7 +83,9 @@ A program that says nothing is counted in `programs_read` only. Silence is unkno
 Free to use, share and adapt under [CC BY 4.0](LICENSE): cite ResidencySpot with a link to
 [residencyspot.com/research/visa-sponsorship](https://residencyspot.com/research/visa-sponsorship).
 
-> ResidencySpot. "US residency and fellowship visa sponsorship data." https://residencyspot.com/research/visa-sponsorship
+> ResidencySpot. "US residency and fellowship visa sponsorship data." Zenodo. https://doi.org/10.5281/zenodo.23449121. Live tables: https://residencyspot.com/research/visa-sponsorship
+
+The DOI above always resolves to the latest version; each monthly release also has its own DOI on [Zenodo](https://doi.org/10.5281/zenodo.23449121).
 
 Program-level lists, searchable by specialty, state and visa, are at
 [residencyspot.com/img-friendly-programs](https://residencyspot.com/img-friendly-programs). Corrections and questions:
