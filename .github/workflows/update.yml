@@ -1,0 +1,56 @@
+# Downloads the live tables once a day and commits them when they changed, with a dated snapshot. On the first of
+# each month it also cuts a release, which Zenodo (when connected) archives with a citable DOI.
+name: Update data
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the current tables
+        run: |
+          curl -fsSL --retry 5 --retry-delay 20 \
+            -A "residency-visa-sponsorship-data (GitHub Actions; +https://github.com/${{ github.repository }})" \
+            https://residencyspot.com/research/visa-sponsorship/data.csv -o /tmp/latest.csv
+          # Refuse anything that is not the expected table, so an error page never overwrites the data.
+          head -1 /tmp/latest.csv | grep -q '^level,track,specialty,state,programs_read'
+          test "$(grep -c '^national,' /tmp/latest.csv)" = 1
+
+      - name: Commit when changed
+        id: commit
+        run: |
+          if cmp -s /tmp/latest.csv data/latest.csv; then
+            echo "No change today."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          day=$(date -u +%F)
+          cp /tmp/latest.csv data/latest.csv
+          cp /tmp/latest.csv "data/snapshots/$day.csv"
+          python3 scripts/summary.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data README.md
+          git commit -m "Data for $day"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Monthly release
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ "$(date -u +%d)" = "01" ] || exit 0
+          tag="v$(date -u +%Y.%m.%d)"
+          gh release view "$tag" >/dev/null 2>&1 && exit 0
+          gh release create "$tag" data/latest.csv --title "Data as of $(date -u +%B\ %Y)" \
+            --notes "Monthly release of the US residency and fellowship visa sponsorship tables. Live tables: https://residencyspot.com/research/visa-sponsorship"

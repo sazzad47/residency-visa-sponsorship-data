@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "US residency and fellowship visa sponsorship data"
+abstract: >-
+  What the websites of every open US residency and fellowship program say about J-1 and H-1B visas and about
+  international medical graduates, counted nationally, by specialty and by state, updated daily.
+authors:
+  - name: "ResidencySpot"
+    website: "https://residencyspot.com"
+url: "https://residencyspot.com/research/visa-sponsorship"
+repository-code: "https://github.com/sazzad47/residency-visa-sponsorship-data"
+license: CC-BY-4.0
+keywords:
+  - graduate medical education
+  - residency
+  - fellowship
+  - visa sponsorship
+  - H-1B
+  - J-1
+  - international medical graduates
+  - IMG

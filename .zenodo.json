@@ -1,0 +1,25 @@
+{
+  "title": "US residency and fellowship visa sponsorship data",
+  "upload_type": "dataset",
+  "description": "What the websites of every open US residency and fellowship program say about J-1 and H-1B visas and about international medical graduates, counted nationally, by specialty and by state. Compiled by ResidencySpot from each program's own website with written rules; each fact keeps its source sentence. Live tables, method and limits: https://residencyspot.com/research/visa-sponsorship",
+  "creators": [{ "name": "ResidencySpot" }],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "graduate medical education",
+    "residency",
+    "fellowship",
+    "visa sponsorship",
+    "H-1B",
+    "J-1",
+    "international medical graduates"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://residencyspot.com/research/visa-sponsorship",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}
