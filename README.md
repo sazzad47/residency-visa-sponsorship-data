@@ -9,17 +9,17 @@ What the websites of every open US residency and fellowship program say about **
 numbers are shown with charts, findings and an FAQ.
 
 <!-- summary:start -->
-**As of October 19, 2026:**
+**As of October 21, 2026:**
 
 | | Programs |
 | --- | ---: |
-| Websites read | 14,747 |
-| State a visa or IMG policy | 3,641 |
-| Accept J-1 physicians | 2,027 |
-| Sponsor H-1B | 568 |
-| Say they do not sponsor H-1B | 1,500 (73% of those that address H-1B) |
-| Offer both | 485 |
-| Consider IMGs without naming a visa | 774 |
+| Websites read | 14,743 |
+| State a visa or IMG policy | 3,654 |
+| Accept J-1 physicians | 2,037 |
+| Sponsor H-1B | 565 |
+| Say they do not sponsor H-1B | 1,512 (73% of those that address H-1B) |
+| Offer both | 483 |
+| Consider IMGs without naming a visa | 776 |
 
 190 specialty rows and 51 state rows in [`data/latest.csv`](data/latest.csv).
 <!-- summary:end -->
