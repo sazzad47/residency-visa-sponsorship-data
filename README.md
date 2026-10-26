@@ -14,10 +14,10 @@ numbers are shown with charts, findings and an FAQ.
 | | Programs |
 | --- | ---: |
 | Websites read | 14,760 |
-| State a visa or IMG policy | 3,654 |
-| Accept J-1 physicians | 2,039 |
+| State a visa or IMG policy | 3,656 |
+| Accept J-1 physicians | 2,040 |
 | Sponsor H-1B | 568 |
-| Say they do not sponsor H-1B | 1,507 (73% of those that address H-1B) |
+| Say they do not sponsor H-1B | 1,509 (73% of those that address H-1B) |
 | Offer both | 485 |
 | Consider IMGs without naming a visa | 778 |
 

@@ -1,0 +1,242 @@
+level,track,specialty,state,programs_read,state_visa_or_img_policy,j1_yes,j1_no,h1b_yes,h1b_no,j1_and_h1b,img_without_visa_named,img_friendly,as_of
+national,,,,14760,3656,2040,433,568,1509,485,778,3008,2026-10-25
+specialty,residency,Internal Medicine,,472,190,122,24,30,89,23,29,168,2026-10-25
+specialty,residency,Family Medicine,,497,187,76,67,14,111,13,30,119,2026-10-25
+specialty,fellowship,Cardiovascular Disease,,335,113,70,12,24,58,19,15,94,2026-10-25
+specialty,fellowship,Gastroenterology,,310,94,52,18,14,53,14,7,66,2026-10-25
+specialty,residency,General Surgery,,277,88,45,10,11,39,10,21,70,2026-10-25
+specialty,residency,Psychiatry,,237,86,55,12,16,40,14,13,74,2026-10-25
+specialty,fellowship,Pathology,,315,78,31,9,7,25,7,33,65,2026-10-25
+specialty,residency,Obstetrics and Gynecology,,231,75,55,9,10,37,10,8,68,2026-10-25
+specialty,residency,Emergency Medicine,,229,73,41,9,9,31,9,15,58,2026-10-25
+specialty,residency,Pediatrics,,168,72,56,3,9,31,8,10,68,2026-10-25
+specialty,fellowship,Neurology,,338,71,38,14,11,26,8,15,57,2026-10-25
+specialty,fellowship,Diagnostic Radiology,,235,71,25,12,12,17,8,24,56,2026-10-25
+specialty,residency,Neurology,,159,71,50,1,11,34,9,5,59,2026-10-25
+specialty,fellowship,Pulmonary Disease and Critical Care Medicine,,195,68,37,9,11,32,11,12,53,2026-10-25
+specialty,fellowship,Hematology and Medical Oncology,,170,61,37,8,16,29,13,8,50,2026-10-25
+specialty,fellowship,Infectious Disease,,156,58,35,3,13,28,12,9,47,2026-10-25
+specialty,fellowship,Interventional Cardiology,,167,55,34,3,9,29,8,8,47,2026-10-25
+specialty,residency,Anesthesiology,,156,55,30,6,6,23,6,13,46,2026-10-25
+specialty,fellowship,"Endocrinology, Diabetes, and Metabolism",,138,55,34,3,15,23,12,7,46,2026-10-25
+specialty,fellowship,Nephrology,,140,51,42,1,21,21,21,2,45,2026-10-25
+specialty,residency,Pathology,,111,50,29,0,3,22,3,16,45,2026-10-25
+specialty,residency,Transitional Year,,142,48,23,9,6,24,6,11,37,2026-10-25
+specialty,fellowship,Geriatric Medicine,,123,47,30,1,10,18,9,11,43,2026-10-25
+specialty,fellowship,General Surgery,,298,45,22,7,12,9,9,14,39,2026-10-25
+specialty,fellowship,Hospice and Palliative Medicine,,166,44,23,4,9,17,8,9,34,2026-10-25
+specialty,residency,Diagnostic Radiology,,155,44,28,3,10,14,8,10,40,2026-10-25
+specialty,fellowship,Sports Medicine,,191,43,16,15,4,21,4,9,25,2026-10-25
+specialty,fellowship,Critical Care Medicine,,155,36,24,4,8,10,7,6,32,2026-10-25
+specialty,fellowship,Neonatal-Perinatal Medicine,,99,36,25,0,5,11,5,7,33,2026-10-25
+specialty,fellowship,Ophthalmology,,228,33,16,5,6,9,1,10,31,2026-10-25
+specialty,residency,Physical Medicine and Rehabilitation,,92,32,16,2,4,13,4,10,28,2026-10-25
+specialty,fellowship,Rheumatology,,119,31,19,1,5,12,2,3,25,2026-10-25
+specialty,residency,Child Neurology,,71,31,20,1,4,11,4,5,25,2026-10-25
+specialty,fellowship,Child and Adolescent Psychiatry,,123,30,21,0,6,12,6,4,28,2026-10-25
+specialty,residency,Dermatology,,109,30,20,1,4,11,4,9,29,2026-10-25
+specialty,fellowship,Anesthesiology,,183,28,11,1,7,7,5,13,26,2026-10-25
+specialty,fellowship,Neurological Surgery,,148,28,11,9,9,14,8,5,21,2026-10-25
+specialty,fellowship,Pediatric Hematology/Oncology,,99,28,16,2,1,15,1,7,23,2026-10-25
+specialty,fellowship,Vascular Neurology,,98,27,19,0,3,10,3,8,27,2026-10-25
+specialty,fellowship,Clinical Cardiac Electrophysiology,,96,27,20,1,4,15,4,2,23,2026-10-25
+specialty,residency,Internal Medicine/Pediatrics,,61,27,23,1,7,15,6,3,27,2026-10-25
+specialty,fellowship,Pediatrics,,151,26,13,2,3,6,2,8,23,2026-10-25
+specialty,fellowship,Neuroradiology,,112,26,15,2,1,10,1,6,21,2026-10-25
+specialty,residency,Neurological Surgery,,103,26,13,0,4,12,2,7,24,2026-10-25
+specialty,residency,Orthopaedic Surgery,,168,25,17,2,3,14,3,4,22,2026-10-25
+specialty,fellowship,Maternal-Fetal Medicine,,101,25,16,5,5,8,5,3,19,2026-10-25
+specialty,residency,Interventional Radiology,,108,24,15,1,4,6,3,7,23,2026-10-25
+specialty,fellowship,Epilepsy,,94,24,16,0,3,9,2,7,24,2026-10-25
+specialty,fellowship,Neurocritical Care,,87,24,15,0,2,9,2,8,23,2026-10-25
+specialty,fellowship,Pediatric Cardiology,,69,24,13,2,2,8,1,4,19,2026-10-25
+specialty,fellowship,Clinical Neurophysiology,,93,22,16,0,2,7,1,4,21,2026-10-25
+specialty,fellowship,Sleep Medicine,,79,22,17,0,4,10,4,2,19,2026-10-25
+specialty,fellowship,Family Medicine,,89,21,1,14,0,10,0,5,6,2026-10-25
+specialty,fellowship,Pediatric Emergency Medicine,,80,21,9,3,2,6,1,7,18,2026-10-25
+specialty,fellowship,Advanced Heart Failure and Transplant Cardiology,,65,21,14,1,3,13,3,3,18,2026-10-25
+specialty,fellowship,Emergency Medicine,,332,20,1,12,0,12,0,6,7,2026-10-25
+specialty,fellowship,Pain Medicine,,112,20,10,0,5,5,3,7,19,2026-10-25
+specialty,fellowship,Cytopathology,,86,20,15,0,3,7,3,4,19,2026-10-25
+specialty,fellowship,Hematopathology,,83,20,9,0,3,8,3,8,17,2026-10-25
+specialty,fellowship,Pediatric Critical Care Medicine,,81,19,13,1,4,6,3,3,17,2026-10-25
+specialty,fellowship,Musculoskeletal Radiology,,77,19,5,6,1,5,1,6,12,2026-10-25
+specialty,fellowship,Pediatric Endocrinology,,71,19,16,0,6,4,6,2,18,2026-10-25
+specialty,fellowship,Surgical Critical Care,,137,17,10,2,2,8,2,1,13,2026-10-25
+specialty,fellowship,Internal Medicine,,87,17,2,11,1,4,0,3,6,2026-10-25
+specialty,fellowship,Addiction Medicine,,85,17,7,2,0,9,0,5,12,2026-10-25
+specialty,fellowship,Allergy and Immunology,,82,17,13,1,4,5,4,1,14,2026-10-25
+specialty,fellowship,Abdominal Radiology,,81,17,6,5,1,4,1,3,9,2026-10-25
+specialty,fellowship,Vascular Surgery,,110,16,8,1,3,5,3,6,14,2026-10-25
+specialty,residency,Ophthalmology,,85,16,9,1,1,10,1,3,13,2026-10-25
+specialty,fellowship,Thoracic Surgery,,81,16,3,3,6,3,1,7,15,2026-10-25
+specialty,fellowship,Pediatric Infectious Diseases,,57,16,8,0,5,4,4,5,14,2026-10-25
+specialty,fellowship,Complex General Surgical Oncology,,81,15,7,2,2,5,2,6,13,2026-10-25
+specialty,fellowship,Pediatric Gastroenterology,,75,15,9,2,1,9,1,1,10,2026-10-25
+specialty,fellowship,Pediatric Radiology,,49,15,8,1,4,3,4,5,13,2026-10-25
+specialty,fellowship,Transplant Nephrology,,40,15,7,3,1,5,1,3,10,2026-10-25
+specialty,residency,Urology,,126,14,7,2,2,6,2,3,11,2026-10-25
+specialty,fellowship,Consultation-Liaison Psychiatry,,55,14,10,1,4,5,4,2,12,2026-10-25
+specialty,residency,Vascular Surgery,,56,13,9,0,3,6,3,3,12,2026-10-25
+specialty,fellowship,Transplant Hepatology,,49,13,7,4,3,6,3,1,9,2026-10-25
+specialty,fellowship,Forensic Psychiatry,,48,13,4,1,1,5,1,7,11,2026-10-25
+specialty,fellowship,Gynecologic Oncology,,69,12,7,0,2,3,2,4,11,2026-10-25
+specialty,fellowship,Pediatric Hospital Medicine,,67,11,8,0,1,7,1,0,8,2026-10-25
+specialty,fellowship,Psychiatry,,56,11,0,2,1,4,0,5,6,2026-10-25
+specialty,fellowship,Clinical Informatics,,49,11,2,1,3,3,1,3,7,2026-10-25
+specialty,fellowship,Urology,,126,10,4,1,4,1,2,3,9,2026-10-25
+specialty,fellowship,Plastic Surgery,,115,10,4,1,0,1,0,5,9,2026-10-25
+specialty,residency,Otolaryngology,,104,10,6,0,0,5,0,4,10,2026-10-25
+specialty,residency,Radiation Oncology,,69,10,7,0,3,4,3,2,9,2026-10-25
+specialty,fellowship,Geriatric Psychiatry,,47,10,3,1,1,2,1,5,8,2026-10-25
+specialty,fellowship,Pediatric Nephrology,,45,10,6,0,3,1,3,3,9,2026-10-25
+specialty,fellowship,Pediatric Pulmonology,,41,10,5,0,1,6,1,2,7,2026-10-25
+specialty,residency,Thoracic Surgery,,41,10,4,0,1,2,1,6,10,2026-10-25
+specialty,fellowship,Addiction Psychiatry,,40,10,6,1,2,1,2,3,9,2026-10-25
+specialty,fellowship,Developmental-Behavioral Pediatrics,,34,10,8,0,1,4,1,2,10,2026-10-25
+specialty,fellowship,Pediatric Dermatology,,34,10,6,0,2,2,2,4,10,2026-10-25
+specialty,fellowship,Pediatric Anesthesiology,,59,9,6,1,2,3,1,2,9,2026-10-25
+specialty,fellowship,Adult Reconstructive Orthopaedics,,53,9,6,0,3,1,3,2,8,2026-10-25
+specialty,fellowship,Reproductive Endocrinology and Infertility,,48,9,5,1,2,2,2,2,7,2026-10-25
+specialty,residency,Nuclear Medicine,,19,9,3,1,2,3,1,4,8,2026-10-25
+specialty,fellowship,Otolaryngology,,103,8,2,4,0,3,0,0,2,2026-10-25
+specialty,residency,Plastic Surgery,,92,8,3,2,1,5,1,1,4,2026-10-25
+specialty,fellowship,Hand Surgery,,75,8,5,0,0,3,0,2,7,2026-10-25
+specialty,fellowship,Obstetrics and Gynecology,,71,8,5,2,2,1,2,1,6,2026-10-25
+specialty,fellowship,Dermatopathology,,53,8,5,0,0,4,0,3,8,2026-10-25
+specialty,fellowship,Urogynecology and Reconstructive Pelvic Surgery,,52,8,4,1,3,1,3,2,6,2026-10-25
+specialty,fellowship,Neuromuscular Medicine,,50,8,5,0,0,4,0,3,8,2026-10-25
+specialty,fellowship,Interventional Pulmonology,,38,8,4,2,0,5,0,1,5,2026-10-25
+specialty,fellowship,Medical Toxicology,,29,8,3,1,1,3,1,3,6,2026-10-25
+specialty,fellowship,Emergency Medical Services,,74,7,2,2,1,3,1,1,3,2026-10-25
+specialty,fellowship,Micrographic Surgery and Dermatologic Oncology,,58,7,4,0,1,4,1,2,6,2026-10-25
+specialty,fellowship,Neuroendovascular Intervention,,52,7,2,1,1,3,1,3,6,2026-10-25
+specialty,fellowship,Pediatric Orthopaedics,,44,7,4,0,0,2,0,3,7,2026-10-25
+specialty,fellowship,Molecular Genetic Pathology,,40,7,3,0,0,2,0,4,7,2026-10-25
+specialty,fellowship,Physical Medicine and Rehabilitation,,37,7,2,0,1,1,1,4,6,2026-10-25
+specialty,fellowship,Child Abuse Pediatrics,,24,7,4,0,0,1,0,3,7,2026-10-25
+specialty,fellowship,Nuclear Medicine,,19,7,3,1,1,3,0,1,5,2026-10-25
+specialty,fellowship,Orthopaedic Surgery of the Spine,,62,6,3,0,2,1,2,2,5,2026-10-25
+specialty,fellowship,Pediatric Surgery,,62,6,5,0,2,2,2,1,6,2026-10-25
+specialty,fellowship,Colon and Rectal Surgery,,50,6,3,0,2,1,2,2,5,2026-10-25
+specialty,fellowship,Adult Cardiothoracic Anesthesiology,,41,6,5,0,0,4,0,1,6,2026-10-25
+specialty,fellowship,Pediatric Rheumatology,,38,6,4,0,2,2,2,2,6,2026-10-25
+specialty,fellowship,Dermatology,,34,6,2,2,0,1,0,2,4,2026-10-25
+specialty,fellowship,Adolescent Medicine,,30,6,4,0,1,2,1,1,5,2026-10-25
+specialty,fellowship,Radiation Oncology,,26,6,3,1,0,1,0,2,5,2026-10-25
+specialty,fellowship,Nuclear Radiology,,17,6,3,0,0,1,0,3,6,2026-10-25
+specialty,fellowship,Medical Oncology,,12,6,4,0,1,3,1,1,5,2026-10-25
+specialty,fellowship,Neuropathology,,40,5,3,0,0,3,0,1,4,2026-10-25
+specialty,fellowship,Obstetric Anesthesiology,,36,5,1,0,0,0,0,4,5,2026-10-25
+specialty,fellowship,Complex Family Planning,,33,5,3,1,2,2,2,0,3,2026-10-25
+specialty,fellowship,Regional Anesthesiology and Acute Pain Medicine,,33,5,4,0,1,1,1,0,4,2026-10-25
+specialty,fellowship,Adult Congenital Heart Disease,,27,5,3,0,1,2,1,1,4,2026-10-25
+specialty,fellowship,Pediatric Pathology,,26,5,1,0,0,1,0,3,4,2026-10-25
+specialty,fellowship,Interventional Radiology,,24,5,2,1,0,3,0,1,3,2026-10-25
+specialty,fellowship,Medical Microbiology,,23,5,1,1,1,2,0,2,4,2026-10-25
+specialty,fellowship,Orthopaedic Surgery,,41,4,2,0,0,1,0,2,4,2026-10-25
+specialty,residency,Medical Genetics and Genomics,,39,4,3,0,0,1,0,1,4,2026-10-25
+specialty,fellowship,Orthopaedic Trauma,,31,4,3,0,1,2,1,1,4,2026-10-25
+specialty,fellowship,Orthopaedic Sports Medicine,,27,4,3,0,0,3,0,0,3,2026-10-25
+specialty,fellowship,Child Neurology,,23,4,1,1,0,0,0,2,3,2026-10-25
+specialty,fellowship,Pediatric Rehabilitation Medicine,,22,4,2,0,0,1,0,1,3,2026-10-25
+specialty,fellowship,Musculoskeletal Oncology,,15,4,2,0,0,1,0,2,4,2026-10-25
+specialty,residency,Internal Medicine/Psychiatry,,9,4,4,0,0,2,0,0,4,2026-10-25
+specialty,fellowship,Blood Banking/Transfusion Medicine,,53,3,1,0,0,2,0,1,2,2026-10-25
+specialty,fellowship,Foot and Ankle Orthopaedics,,26,3,1,0,0,1,0,2,3,2026-10-25
+specialty,residency,Child and Adolescent Psychiatry,,12,3,2,0,0,2,0,0,2,2026-10-25
+specialty,residency,Colon and Rectal Surgery,,7,3,0,0,0,0,0,3,3,2026-10-25
+specialty,fellowship,Medical Genetics and Genomics,,32,2,0,0,0,1,0,1,1,2026-10-25
+specialty,fellowship,Forensic Pathology,,28,2,1,0,0,2,0,0,1,2026-10-25
+specialty,residency,Public Health and General Preventive Medicine,,25,2,1,1,0,2,0,0,2,2026-10-25
+specialty,fellowship,Ophthalmic Plastic and Reconstructive Surgery,,19,2,2,0,0,0,0,0,2,2026-10-25
+specialty,fellowship,Pediatric Transplant Hepatology,,12,2,1,0,0,1,0,0,1,2026-10-25
+specialty,fellowship,Selective Pathology,,9,2,1,0,0,1,0,1,2,2026-10-25
+specialty,fellowship,Undersea and Hyperbaric Medicine,,8,2,0,1,0,1,0,1,2,2026-10-25
+specialty,residency,Family Medicine/Psychiatry,,4,2,1,1,0,2,0,0,1,2026-10-25
+specialty,residency,Emergency Medicine/Internal Medicine,,3,2,1,1,0,2,0,0,1,2026-10-25
+specialty,fellowship,Pediatric Otolaryngology,,31,1,1,0,0,0,0,0,1,2026-10-25
+specialty,fellowship,Neurotology,,29,1,0,1,0,1,0,0,0,2026-10-25
+specialty,fellowship,Pediatric Urology,,28,1,1,0,1,0,1,0,1,2026-10-25
+specialty,fellowship,Medical Biochemical Genetics,,21,1,0,1,1,0,0,0,1,2026-10-25
+specialty,fellowship,Brain Injury Medicine,,20,1,1,0,1,0,1,0,1,2026-10-25
+specialty,fellowship,Spinal Cord Injury Medicine,,19,1,1,0,0,0,0,0,1,2026-10-25
+specialty,fellowship,Congenital Cardiac Surgery,,14,1,1,0,0,0,0,0,1,2026-10-25
+specialty,fellowship,Pediatric Cardiac Anesthesiology,,10,1,0,0,1,0,0,0,1,2026-10-25
+specialty,residency,Neurodevelopmental Disabilities,,6,1,1,0,0,1,0,0,1,2026-10-25
+specialty,fellowship,Vascular and Interventional Radiology,,3,1,1,0,1,0,1,0,1,2026-10-25
+specialty,residency,Vascular and Interventional Radiology,,2,1,0,0,0,0,0,1,1,2026-10-25
+specialty,residency,Critical Care Medicine,,1,1,0,0,0,1,0,0,1,2026-10-25
+specialty,fellowship,Family Medicine/Internal Medicine,,1,1,0,1,0,0,0,0,0,2026-10-25
+specialty,fellowship,Internal Medicine/Psychiatry,,1,1,1,0,1,0,1,0,1,2026-10-25
+specialty,residency,Occupational and Environmental Medicine,,14,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Osteopathic Neuromusculoskeletal Medicine,,14,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Pulmonary Disease,,14,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Aerospace Medicine,,3,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Chemical Pathology,,3,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,"Health Care Administration, Leadership, and Management",,3,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Neurodevelopmental Disabilities,,3,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Public Health and General Preventive Medicine,,3,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Osteopathic Neuromusculoskeletal Medicine,,2,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Anesthesiology/Pediatrics,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Dermatology/Internal Medicine,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Emergency Medicine/Family Medicine,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Emergency Medicine/Pediatrics,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Gastroenterology,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Internal Medicine/Pediatrics,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Neurology/Psychiatry,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,fellowship,Occupational and Environmental Medicine,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Pediatric Anesthesiology,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Pediatric Rehabilitation Medicine,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Pediatric Surgery,,1,0,0,0,0,0,0,0,0,2026-10-25
+specialty,residency,Surgical Critical Care,,1,0,0,0,0,0,0,0,0,2026-10-25
+state,,,NY,1594,507,343,14,209,172,200,84,442,2026-10-25
+state,,,CA,1427,339,144,72,25,143,20,82,264,2026-10-25
+state,,,TX,1058,301,175,19,2,193,1,54,244,2026-10-25
+state,,,FL,906,207,94,37,31,78,22,53,162,2026-10-25
+state,,,OH,820,197,87,23,34,64,26,70,167,2026-10-25
+state,,,IL,602,179,102,21,22,83,21,36,142,2026-10-25
+state,,,PA,879,162,96,16,46,42,39,34,139,2026-10-25
+state,,,MA,568,136,82,13,40,4,36,40,127,2026-10-25
+state,,,MI,632,130,82,15,12,67,9,26,113,2026-10-25
+state,,,MO,384,123,88,11,15,29,12,17,108,2026-10-25
+state,,,NC,435,115,48,23,2,63,1,29,80,2026-10-25
+state,,,AZ,292,86,38,18,4,44,3,20,61,2026-10-25
+state,,,NJ,269,79,53,6,5,30,5,14,68,2026-10-25
+state,,,MN,311,75,27,9,11,35,7,15,47,2026-10-25
+state,,,CT,258,74,44,4,6,42,6,16,62,2026-10-25
+state,,,MD,386,66,40,7,7,25,4,13,57,2026-10-25
+state,,,VA,277,65,60,2,0,20,0,1,61,2026-10-25
+state,,,WA,246,65,15,30,14,30,3,10,43,2026-10-25
+state,,,GA,311,55,36,1,12,14,12,13,51,2026-10-25
+state,,,WI,262,52,14,17,5,16,2,15,33,2026-10-25
+state,,,AL,206,51,42,6,7,31,7,2,44,2026-10-25
+state,,,TN,238,50,34,2,4,28,4,12,46,2026-10-25
+state,,,LA,161,42,31,2,0,20,0,5,38,2026-10-25
+state,,,NE,108,36,19,2,11,11,11,9,31,2026-10-25
+state,,,KY,150,35,14,3,1,21,0,9,31,2026-10-25
+state,,,OR,133,34,3,6,4,15,1,14,24,2026-10-25
+state,,,WV,89,34,28,0,0,28,0,3,31,2026-10-25
+state,,,IN,160,33,18,5,0,27,0,5,23,2026-10-25
+state,,,KS,101,33,27,0,6,9,6,4,32,2026-10-25
+state,,,AR,79,33,22,7,8,16,8,4,26,2026-10-25
+state,,,DC,173,32,29,0,2,22,1,1,31,2026-10-25
+state,,,MS,73,30,19,0,0,13,0,10,29,2026-10-25
+state,,,CO,174,26,6,5,4,6,3,12,19,2026-10-25
+state,,,SC,141,26,13,5,3,10,3,8,21,2026-10-25
+state,,,UT,138,24,9,10,0,9,0,5,14,2026-10-25
+state,,,OK,58,23,14,1,2,6,2,8,22,2026-10-25
+state,,,NM,69,16,5,0,0,7,0,7,14,2026-10-25
+state,,,NV,42,14,2,6,0,6,0,6,8,2026-10-25
+state,,,RI,90,10,6,3,3,4,2,0,7,2026-10-25
+state,,,HI,34,10,7,0,0,6,0,3,10,2026-10-25
+state,,,ID,21,10,1,9,0,8,0,0,1,2026-10-25
+state,,,ND,20,10,7,0,3,1,1,1,10,2026-10-25
+state,,,SD,18,10,6,2,6,2,6,2,8,2026-10-25
+state,,,DE,59,8,2,0,0,1,0,6,8,2026-10-25
+state,,,VT,44,5,1,0,1,4,0,0,2,2026-10-25
+state,,,IA,152,3,2,1,1,2,1,0,2,2026-10-25
+state,,,ME,45,3,3,0,0,1,0,0,3,2026-10-25
+state,,,WY,2,2,2,0,0,1,0,0,2,2026-10-25
+state,,,NH,64,0,0,0,0,0,0,0,0,2026-10-25
+state,,,PR,1,0,0,0,0,0,0,0,0,2026-10-25

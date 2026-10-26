@@ -1,5 +1,5 @@
 level,track,specialty,state,programs_read,state_visa_or_img_policy,j1_yes,j1_no,h1b_yes,h1b_no,j1_and_h1b,img_without_visa_named,img_friendly,as_of
-national,,,,14760,3654,2039,434,568,1507,485,778,3007,2026-10-25
+national,,,,14760,3656,2040,433,568,1509,485,778,3008,2026-10-25
 specialty,residency,Internal Medicine,,472,190,122,24,30,89,23,29,168,2026-10-25
 specialty,residency,Family Medicine,,497,187,76,67,14,111,13,30,119,2026-10-25
 specialty,fellowship,Cardiovascular Disease,,335,113,70,12,24,58,19,15,94,2026-10-25
@@ -12,7 +12,7 @@ specialty,residency,Emergency Medicine,,229,73,41,9,9,31,9,15,58,2026-10-25
 specialty,residency,Pediatrics,,168,72,56,3,9,31,8,10,68,2026-10-25
 specialty,fellowship,Neurology,,338,71,38,14,11,26,8,15,57,2026-10-25
 specialty,fellowship,Diagnostic Radiology,,235,71,25,12,12,17,8,24,56,2026-10-25
-specialty,residency,Neurology,,159,70,49,1,11,33,9,5,58,2026-10-25
+specialty,residency,Neurology,,159,71,50,1,11,34,9,5,59,2026-10-25
 specialty,fellowship,Pulmonary Disease and Critical Care Medicine,,195,68,37,9,11,32,11,12,53,2026-10-25
 specialty,fellowship,Hematology and Medical Oncology,,170,61,37,8,16,29,13,8,50,2026-10-25
 specialty,fellowship,Infectious Disease,,156,58,35,3,13,28,12,9,47,2026-10-25
@@ -20,8 +20,8 @@ specialty,fellowship,Interventional Cardiology,,167,55,34,3,9,29,8,8,47,2026-10-
 specialty,residency,Anesthesiology,,156,55,30,6,6,23,6,13,46,2026-10-25
 specialty,fellowship,"Endocrinology, Diabetes, and Metabolism",,138,55,34,3,15,23,12,7,46,2026-10-25
 specialty,fellowship,Nephrology,,140,51,42,1,21,21,21,2,45,2026-10-25
-specialty,residency,Transitional Year,,143,49,23,10,6,25,6,11,37,2026-10-25
-specialty,residency,Pathology,,111,49,29,0,3,21,3,16,45,2026-10-25
+specialty,residency,Pathology,,111,50,29,0,3,22,3,16,45,2026-10-25
+specialty,residency,Transitional Year,,142,48,23,9,6,24,6,11,37,2026-10-25
 specialty,fellowship,Geriatric Medicine,,123,47,30,1,10,18,9,11,43,2026-10-25
 specialty,fellowship,General Surgery,,298,45,22,7,12,9,9,14,39,2026-10-25
 specialty,fellowship,Hospice and Palliative Medicine,,166,44,23,4,9,17,8,9,34,2026-10-25
@@ -32,9 +32,9 @@ specialty,fellowship,Neonatal-Perinatal Medicine,,99,36,25,0,5,11,5,7,33,2026-10
 specialty,fellowship,Ophthalmology,,228,33,16,5,6,9,1,10,31,2026-10-25
 specialty,residency,Physical Medicine and Rehabilitation,,92,32,16,2,4,13,4,10,28,2026-10-25
 specialty,fellowship,Rheumatology,,119,31,19,1,5,12,2,3,25,2026-10-25
+specialty,residency,Child Neurology,,71,31,20,1,4,11,4,5,25,2026-10-25
 specialty,fellowship,Child and Adolescent Psychiatry,,123,30,21,0,6,12,6,4,28,2026-10-25
 specialty,residency,Dermatology,,109,30,20,1,4,11,4,9,29,2026-10-25
-specialty,residency,Child Neurology,,71,30,20,1,4,10,4,5,25,2026-10-25
 specialty,fellowship,Anesthesiology,,183,28,11,1,7,7,5,13,26,2026-10-25
 specialty,fellowship,Neurological Surgery,,148,28,11,9,9,14,8,5,21,2026-10-25
 specialty,fellowship,Pediatric Hematology/Oncology,,99,28,16,2,1,15,1,7,23,2026-10-25
@@ -44,7 +44,7 @@ specialty,residency,Internal Medicine/Pediatrics,,61,27,23,1,7,15,6,3,27,2026-10
 specialty,fellowship,Pediatrics,,151,26,13,2,3,6,2,8,23,2026-10-25
 specialty,fellowship,Neuroradiology,,112,26,15,2,1,10,1,6,21,2026-10-25
 specialty,residency,Neurological Surgery,,103,26,13,0,4,12,2,7,24,2026-10-25
-specialty,residency,Orthopaedic Surgery,,167,25,17,2,3,14,3,4,22,2026-10-25
+specialty,residency,Orthopaedic Surgery,,168,25,17,2,3,14,3,4,22,2026-10-25
 specialty,fellowship,Maternal-Fetal Medicine,,101,25,16,5,5,8,5,3,19,2026-10-25
 specialty,residency,Interventional Radiology,,108,24,15,1,4,6,3,7,23,2026-10-25
 specialty,fellowship,Epilepsy,,94,24,16,0,3,9,2,7,24,2026-10-25
@@ -190,13 +190,13 @@ specialty,residency,Pediatric Anesthesiology,,1,0,0,0,0,0,0,0,0,2026-10-25
 specialty,residency,Pediatric Rehabilitation Medicine,,1,0,0,0,0,0,0,0,0,2026-10-25
 specialty,residency,Pediatric Surgery,,1,0,0,0,0,0,0,0,0,2026-10-25
 specialty,residency,Surgical Critical Care,,1,0,0,0,0,0,0,0,0,2026-10-25
-state,,,NY,1594,504,342,14,209,169,200,84,441,2026-10-25
+state,,,NY,1594,507,343,14,209,172,200,84,442,2026-10-25
 state,,,CA,1427,339,144,72,25,143,20,82,264,2026-10-25
 state,,,TX,1058,301,175,19,2,193,1,54,244,2026-10-25
 state,,,FL,906,207,94,37,31,78,22,53,162,2026-10-25
 state,,,OH,820,197,87,23,34,64,26,70,167,2026-10-25
 state,,,IL,602,179,102,21,22,83,21,36,142,2026-10-25
-state,,,PA,880,163,96,17,46,43,39,34,139,2026-10-25
+state,,,PA,879,162,96,16,46,42,39,34,139,2026-10-25
 state,,,MA,568,136,82,13,40,4,36,40,127,2026-10-25
 state,,,MI,632,130,82,15,12,67,9,26,113,2026-10-25
 state,,,MO,384,123,88,11,15,29,12,17,108,2026-10-25
@@ -207,7 +207,7 @@ state,,,MN,311,75,27,9,11,35,7,15,47,2026-10-25
 state,,,CT,258,74,44,4,6,42,6,16,62,2026-10-25
 state,,,MD,386,66,40,7,7,25,4,13,57,2026-10-25
 state,,,VA,277,65,60,2,0,20,0,1,61,2026-10-25
-state,,,WA,245,65,15,30,14,30,3,10,43,2026-10-25
+state,,,WA,246,65,15,30,14,30,3,10,43,2026-10-25
 state,,,GA,311,55,36,1,12,14,12,13,51,2026-10-25
 state,,,WI,262,52,14,17,5,16,2,15,33,2026-10-25
 state,,,AL,206,51,42,6,7,31,7,2,44,2026-10-25
